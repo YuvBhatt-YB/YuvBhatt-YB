@@ -1,4 +1,4 @@
-# Hi👋, I'm [Yuv Bhatt]
+# Hi👋, I'm Yuv Bhatt
 
 # 💫 About Me:
 🔭 Currently working on building full stack Projects<br>👯 Looking to collaborate on Open Source Projects<br>🌱 Currently learning JS, React and Next JS<br>⚡ Love to play football and music
